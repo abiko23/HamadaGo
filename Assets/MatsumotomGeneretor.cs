@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MatsumotomGeneretor : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Start is called before the first frame  update
 
     public GameObject matsumotomPrefab;
     float span = 3.0f;
