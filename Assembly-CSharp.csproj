@@ -37,7 +37,12 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraController.cs" />
+     <Compile Include="Assets\ClearDirector.cs" />
      <Compile Include="Assets\GameoverDirector.cs" />
+     <Compile Include="Assets\MatsumotoController.cs" />
+     <Compile Include="Assets\MatsumotoGeneretor.cs" />
+     <Compile Include="Assets\MatsumotomController.cs" />
+     <Compile Include="Assets\MatsumotomGeneretor.cs" />
      <Compile Include="Assets\PlayerController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2019.4.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>

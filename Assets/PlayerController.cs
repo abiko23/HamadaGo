@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
         Rigidbody2D rigid2D;
         float jumpForce = 340.0f;
         float walkForce = 40.0f;
-        float maxWalkSpeed = 2.0f;
+        float maxWalkSpeed = 3.0f;
     // Start is called before the first frame update
     void Start()
     {
@@ -48,5 +48,11 @@ public class PlayerController : MonoBehaviour
         {
             SceneManager.LoadScene("gameover");
         }
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("ゴール");
+        SceneManager.LoadScene("ClearScene");
     }
 }
