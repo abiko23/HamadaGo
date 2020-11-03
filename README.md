@@ -20,6 +20,7 @@ https://docs.google.com/spreadsheets/d/1ytgPr_Rn4gZxoaTkAaqr4wy5C89UtIgoXZ6rwI9y
 
 # 実装機能
 方向キーで指定した方向(左右、ジャンプ)に、主人公が動きます。
+https://gyazo.com/3c9c2c5c28c2885738d28cf7361c6950
 
 # 実装予定機能
 新たなステージ作成
