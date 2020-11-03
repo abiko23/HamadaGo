@@ -2,7 +2,7 @@
 Hamada Go
 
 # 概要
-Unity作成した2Dゲームです。
+Unityにて作成した2Dゲームです。
 
 # URL
 https://abiko23.s3-ap-northeast-1.amazonaws.com/hamadaapp/index.html
@@ -20,6 +20,11 @@ https://docs.google.com/spreadsheets/d/1ytgPr_Rn4gZxoaTkAaqr4wy5C89UtIgoXZ6rwI9y
 
 # 実装機能
 方向キーで指定した方向(左右、ジャンプ)に、主人公が動きます。
+
+# 実装予定機能
+新たなステージ作成
+接触でダメージを受ける敵キャラの導入
+アイテムを拾って主人公のパワーアップ機能の導入(キノコやウラワーのような)
 
 
 # ローカルでの動作
